@@ -3,5 +3,10 @@
 }
 
 #header {
-    color: #fff;
+    color: #000000;
+}
+
+#header span {
+    font-weight: 900;
+    scale: 2;
 }
